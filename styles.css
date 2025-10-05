@@ -1,0 +1,32 @@
+body {
+  text-align: left;
+  line-height: 1.5;
+  font-family: sans-serif;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  overflow: auto;
+  text-align: left;
+  padding: 8px;
+  border: 0.5px solid lightblue;
+}
+th {
+  background-color: #e7e2e2;
+}
+a:visited,
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
+img {
+  max-width: 50%;
+  height: auto;
+}
